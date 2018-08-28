@@ -23,3 +23,6 @@ This static site is being hosted in an S3 bucket named `allied-api-docs`.
 - Upload files as needed to deploy changes.
 
 **Note: All of the files in this S3 bucket should have public read permissions**
+
+The live site lives here:
+[https://s3.amazonaws.com/allied-api-docs/index.html](https://s3.amazonaws.com/allied-api-docs/index.html)
