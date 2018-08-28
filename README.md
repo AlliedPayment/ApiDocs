@@ -17,9 +17,9 @@ This static site is being hosted in an S3 bucket named `allied-api-docs`.
 
 ### Deployment
 
-**_ The live site is not generated directly from this repositories source. The static assets are manually deployed to the S3 bucket._**
+**The live site is not generated directly from this repositories source. The static assets are manually deployed to the S3 bucket.**
 
 - Navigate to the S3 bucket https://s3.console.aws.amazon.com/s3/buckets/allied-api-docs/
 - Upload files as needed to deploy changes.
 
-**_ Note: All of the files in this S3 bucket should have public read permissions _**
+**Note: All of the files in this S3 bucket should have public read permissions**
