@@ -1,0 +1,25 @@
+{
+  "name": "apidocs",
+  "version": "1.0.0",
+  "description": "static site for allied's api docs",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "static-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlliedPayment/ApiDocs.git"
+  },
+  "author": "wickdninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlliedPayment/ApiDocs/issues"
+  },
+  "homepage": "https://github.com/AlliedPayment/ApiDocs#readme",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
