@@ -502,7 +502,7 @@
   color: #666666;
 }
 .swagger-section .swagger-ui-wrap .message-success {
-  color: #89bf04;
+  color: #010537;
 }
 .swagger-section .swagger-ui-wrap caption,
 .swagger-section .swagger-ui-wrap th,
@@ -2249,7 +2249,7 @@
   cursor: pointer;
 }
 .swagger-section #header {
-  background-color: #89bf04;
+  background-color: #010537;
   padding: 14px;
 }
 .swagger-section #header a#logo {
@@ -2321,4 +2321,6 @@
   padding-bottom: 15px;
   font-size: 24px;
   font-weight: 500;
+  color: #dc1b52;
+  font-family: "Exo 2", sans-serif;
 }
