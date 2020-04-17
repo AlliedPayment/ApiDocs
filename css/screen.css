@@ -122,14 +122,14 @@
 }
 .swagger-section .swagger-ui-wrap {
   line-height: 1;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
 }
 .swagger-section .swagger-ui-wrap b,
 .swagger-section .swagger-ui-wrap strong {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-weight: bold;
 }
 .swagger-section .swagger-ui-wrap q,
@@ -244,8 +244,8 @@
   display: block;
 }
 .swagger-section .swagger-ui-wrap pre {
-  font-family: 'Anonymous Pro', 'Menlo', 'Consolas', 'Bitstream Vera Sans Mono',
-    'Courier New', monospace;
+  font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono",
+    "Courier New", monospace;
   background-color: #fcf6db;
   border: 1px solid #e5e0c6;
   padding: 10px;
@@ -361,7 +361,7 @@
   width: 100%;
 }
 .swagger-section .swagger-ui-wrap .model-signature {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -445,8 +445,8 @@
 }
 .swagger-section .swagger-ui-wrap .markdown p code,
 .swagger-section .swagger-ui-wrap .markdown li code {
-  font-family: 'Anonymous Pro', 'Menlo', 'Consolas', 'Bitstream Vera Sans Mono',
-    'Courier New', monospace;
+  font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono",
+    "Courier New", monospace;
   background-color: #f0f0f0;
   color: black;
   padding: 1px 3px;
@@ -463,7 +463,7 @@
   font-size: 1.5em;
   line-height: 1.3em;
   padding: 10px 0 10px 0;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-weight: bold;
 }
 .swagger-section .swagger-ui-wrap .heading_with_menu {
@@ -512,8 +512,8 @@
   vertical-align: middle;
 }
 .swagger-section .swagger-ui-wrap .code {
-  font-family: 'Anonymous Pro', 'Menlo', 'Consolas', 'Bitstream Vera Sans Mono',
-    'Courier New', monospace;
+  font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono",
+    "Courier New", monospace;
 }
 .swagger-section
   .swagger-ui-wrap
@@ -522,7 +522,7 @@
   ol
   li.text
   textarea {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   height: 250px;
   padding: 4px;
   display: block;
@@ -629,8 +629,8 @@
   color: #666666;
 }
 .swagger-section .swagger-ui-wrap .markdown pre {
-  font-family: 'Anonymous Pro', 'Menlo', 'Consolas', 'Bitstream Vera Sans Mono',
-    'Courier New', monospace;
+  font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono",
+    "Courier New", monospace;
   background-color: #fcf6db;
   border: 1px solid #e5e0c6;
   padding: 10px;
@@ -643,7 +643,7 @@
   margin: 20px 0 25px 0 !important;
 }
 .swagger-section .swagger-ui-wrap ul#resources {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-size: 0.9em;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource {
@@ -822,7 +822,7 @@
   display: block;
   clear: none;
   float: left;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-weight: bold;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource div.heading h2 a {
@@ -1141,7 +1141,7 @@
   li.operation
   div.content
   form
-  input[type='text'].error {
+  input[type="text"].error {
   outline: 2px solid black;
   outline-color: #cc0000;
 }
@@ -1157,8 +1157,8 @@
   div.response
   div.block
   pre {
-  font-family: 'Anonymous Pro', 'Menlo', 'Consolas', 'Bitstream Vera Sans Mono',
-    'Courier New', monospace;
+  font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono",
+    "Courier New", monospace;
   padding: 10px;
   font-size: 0.9em;
   max-height: 400px;
@@ -2076,7 +2076,7 @@
   padding: 10px 0;
   font-size: 0.8em;
   border-top: 1px solid #dddddd;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   color: #999999;
   font-style: italic;
 }
@@ -2091,7 +2091,7 @@
 }
 .swagger-section .swagger-ui-wrap .markdown ol,
 .swagger-section .swagger-ui-wrap .markdown ul {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Exo 2", sans-serif;
   margin: 5px 0 10px;
   padding: 0 0 0 18px;
   list-style-type: disc;
@@ -2104,7 +2104,7 @@
 .swagger-section .swagger-ui-wrap form.form_box label {
   color: #0f6ab4 !important;
 }
-.swagger-section .swagger-ui-wrap form.form_box input[type='submit'] {
+.swagger-section .swagger-ui-wrap form.form_box input[type="submit"] {
   display: block;
   padding: 10px;
 }
@@ -2313,6 +2313,8 @@
 }
 .header-logo {
   max-width: 225px;
+  padding: 10px 10px 10px 5px;
+  margin-bottom: -40px;
 }
 
 .header-label {
@@ -2322,5 +2324,4 @@
   font-size: 24px;
   font-weight: 500;
   color: #dc1b52;
-  font-family: "Exo 2", sans-serif;
 }
